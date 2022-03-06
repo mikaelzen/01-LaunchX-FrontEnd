@@ -74,3 +74,9 @@ La preferencia de colores del cliente es azul marino y blanco, pero acepta propu
 Nuestro buyer persona se trata de una clienta que requiere llevar un control adecuado de los procesos legales que requiere el negocio de comercio minorista para el que trabaja como sub-gerente.
 
 ![Buyer Persona](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/2-BuyerPersona_01.png)
+
+## Público Objetivo
+
+Nuestro público objetivo se trata de personas (hombres y mujeres) en edad productiva que requieren mantener comunicación con sus abogados repecto a los procesos legales en que se encuentren involucrados, de un modo práctico y accesible.
+
+![Público Objetivo](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/3-TargetAudience.png)
