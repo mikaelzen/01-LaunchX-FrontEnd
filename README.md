@@ -80,3 +80,9 @@ Nuestro buyer persona se trata de una clienta que requiere llevar un control ade
 Nuestro público objetivo se trata de personas (hombres y mujeres) en edad productiva que requieren mantener comunicación con sus abogados repecto a los procesos legales en que se encuentren involucrados, de un modo práctico y accesible.
 
 ![Público Objetivo](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/3-TargetAudience.png)
+
+### User Experience - Wireframes
+
+![Ux 1](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/4-Wireframes/Wire_1.png)
+![Ux 2](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/4-Wireframes/Wire_2.png)
+![Ux 3](https://github.com/mikaelzen/01-LaunchX-FrontEnd/blob/main/4-Wireframes/Wire_3.png)
